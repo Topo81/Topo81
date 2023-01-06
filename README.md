@@ -15,8 +15,7 @@ I'm currently doing a back-end course at Coderhose<br><br>I'm interested in new 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Topo81&icon=0&color=1)](https://visitcount.itsvg.in)
